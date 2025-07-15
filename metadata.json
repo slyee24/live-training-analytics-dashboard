@@ -1,0 +1,5 @@
+{
+  "name": "Live Training Analytics Dashboard",
+  "description": "An interactive dashboard to track and analyze key metrics from live training sessions, providing insights into participant engagement and session effectiveness.",
+  "requestFramePermissions": []
+}
